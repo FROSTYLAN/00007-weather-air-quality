@@ -1,4 +1,4 @@
-# 🌤️ Weather & Air Quality App
+# 🌤️ Weather Air Quality
 
 Aplicación web de clima y calidad del aire desarrollada en ⚛️ React que muestra información meteorológica en tiempo real basada en la 📍 geolocalización del usuario. Incluye datos de 🌡️ temperatura, 💧 humedad, 🔽 presión atmosférica, 💨 velocidad del viento y 🏭 índice de calidad del aire (AQI) utilizando la API de AirVisual.
 
